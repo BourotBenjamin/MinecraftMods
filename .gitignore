@@ -41,3 +41,28 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+.gradle
+.settings
+bin
+build
+config
+crash-reports
+eclipse
+gradle
+logs
+mods
+ressourcepacks
+saves
+gradlew
+gradlew.bat
+build.gradle
+.project
+.classpath
+usernamecache.json
+README.txt
+options.txt
+MinecraftForge-License.txt
+MinecraftForge-Credits.txt
+LICENSE-fml.txt
+forge-1.7.10-10.13.2.1230-changelog.txt
+CREDITS-fml.txt

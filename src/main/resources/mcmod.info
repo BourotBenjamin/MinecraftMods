@@ -1,0 +1,16 @@
+[
+{
+  "modid": "philoupemod",
+  "name": "Philoupe Mod",
+  "description": "My personal mod.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Philoupe"],
+  "credits": "Philoupe and his crew",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
