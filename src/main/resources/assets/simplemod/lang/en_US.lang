@@ -1,4 +1,5 @@
 tile.simplemod_PhiloupeBlock.name=Philoupe Block
-item.simplemod_PhiloupeOre.name=Philoupite
+item.simplemod_PhiloupeOre.name=Philoupe Ore
+item.simplemod_PhiloupeDust.name=Philoupe Dust
 item.simplemod_PhiloupePickaxe.name=Philoupe Pickaxe
-tile.Compressor.name=Compressor
+tile.simplemod_PhiloupeCompressor.name=Philoupe Compressor
