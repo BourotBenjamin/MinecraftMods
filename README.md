@@ -8,17 +8,17 @@ Run 'gradlew eclipse'
 
 Compile forge mod : 
 ==================
-gradlew.bat build
-If you have warning press enter to continue
-You can now find your mod in forge/build
+gradlew.bat build    
+If you have warning press enter to continue    
+You can now find your mod in forge/build    
 
 
 Install forge mod : 
 ======================
-Go to : http://files.minecraftforge.net/
-Donwolad and install Forge (Use the installer or the win installer if you are using windows)
-Launch minecraft once and close it after the menu
-Copy your mod to %appdata%/.minecraft/mods
+Go to : http://files.minecraftforge.net/    
+Donwolad and install Forge (Use the installer or the win installer if you are using windows)    
+Launch minecraft once and close it after the menu    
+Copy your mod to %appdata%/.minecraft/mods    
 
 
 Documentation : 
